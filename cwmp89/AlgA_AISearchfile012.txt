@@ -1,0 +1,9 @@
+USER = your_username (Fardad Hasanzadeh),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile012.txt,
+SIZE = 12, TOUR LENGTH = 56,
+0,10,5,8,9,11,1,2,6,3,7,4,
+NOTE = Enhanced GA: NN seeding, 2-opt mutation, inversion mutation
+The parameter values are 'max_it' = 500 and 'pop_size' = 100.
+RUN-TIME = 0.3 seconds.
+DATE-TIME = 19/02/2026-01:08:22.
+CERTIFICATE = 1700.
